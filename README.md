@@ -70,5 +70,9 @@ Com uma interface intuitiva e controle simple, o jogo proporciona uma experiênc
 Desenvolvido em JavaScript, HTML e CSS, este projeto é um convite para os entusiastas do Detona Ralph mergulharem em uma aventura interativa e repleta de diversão.
 
 
+## Autor
+
+[Pedro Magno](https://github.com/PedroMagno11)
+
 
 **Nota:** _Este é um projeto em constante evolução, portanto, feedback e sugestões são sempre bem-vindos para melhorar a experiência dos jogadores._
